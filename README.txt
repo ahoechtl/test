@@ -4,5 +4,5 @@ test
 testing repo
 
 Anita testet das zweite mal
-Anita testet ;)
+Harald und Anita testen ;)
 Harald testet
